@@ -11,10 +11,10 @@ This dataset contains 8000 images and there are 5 captions for each image.
 3) Final model: which will concatenate results of both this model and will use LSTM layer and Time Distributed layer for doing final_predicttions.
   
   
-## One of example of final prediction:
+## Examples of final prediction:
 
 ![](Picture1.png)
 
-A woman is looking at some mannequins in a window display .
+
 
 
